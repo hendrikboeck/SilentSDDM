@@ -1,4 +1,9 @@
 > [!WARNING]
+> This is an **unofficial fork** of the original project [uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM), based on commit [34f82e1fb8412fff78b82a0dcce763492b36054c](https://github.com/uiriansan/SilentSDDM/commit/34f82e1fb8412fff78b82a0dcce763492b36054c).
+> It exists for **my personal use only**; if you decide to use it, you do so **entirely at your own risk**.
+> Thank you to the original project for the inspiration and work.
+
+> [!WARNING]
 > This theme requires **SDDM v0.21.0 or newer**. Make sure your distro provides the correct version before installing.
 
 > [!IMPORTANT]
@@ -155,7 +160,7 @@ You may now run the `test-sddm-silent` executable for testing.
 For further configuration read the [module](./nix/module.nix) option descriptions and examples.
 
 > [!NOTE]
-> Since the module adds extra dependencies to SDDM, 
+> Since the module adds extra dependencies to SDDM,
 > you may need to restart for the theme to work correctly.
 
 ### Local development and testing under nix
